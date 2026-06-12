@@ -1,0 +1,28 @@
+{
+  "name": "rokkaidofumifumifumisandeshitaka",
+  "version": "1.0.0",
+  "description": "六回同ふみふみふみさんでしたか",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mokotanin/rokkaidofumifumifumisandeshitaka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mokotanin/rokkaidofumifumifumisandeshitaka/issues"
+  },
+  "homepage": "https://github.com/mokotanin/rokkaidofumifumifumisandeshitaka#readme",
+  "dependencies": {
+    "discord.js": "^14.26.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.4.1"
+  }
+}
